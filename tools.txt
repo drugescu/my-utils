@@ -1,0 +1,8 @@
+
+=== Development ===
+
+Valgrind
+
+Google Sanitizers:
+  Memory Error Detection (2x slowdown): AddressSanitizer: https://github.com/google/sanitizers/wiki/AddressSanitizer
+  Data races and deadlocks C++: ThreadSanitizer
